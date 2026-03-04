@@ -1,1 +1,11 @@
+-- ============================================================
+-- Project: Music Store Revenue & Customer Intelligence Analysis
+-- Database: Chinook (SQLite)
+-- Tool: DBeaver
+-- Author: [Your Name]
+-- Description:
+-- This file contains structured SQL queries used to analyze
+-- revenue performance, customer value, product trends, and
+-- geographic distribution within the Chinook database.
+-- ============================================================
 
