@@ -66,7 +66,7 @@ The analysis includes the following areas:
 5. Artist revenue contribution  
 6. Track-level sales analysis  
 
-All SQL queries used for this analysis can be found in:
+All SQL queries used for this analysis can be found :
 
 ```
 sql/chinook_analysis.sql
